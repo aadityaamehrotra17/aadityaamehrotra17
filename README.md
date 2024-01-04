@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Front-End Development, UI/UX Design**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CP_7ceAH8YilI_DO4Kw0I8r2G4-3YnuI/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PykERbVzZAGQU5xk1s6ZvRTCrOfFRxJI/view?usp=sharing)
 
 - ⚡ Fun fact **The first computer virus was called "Creeper"!**
 
