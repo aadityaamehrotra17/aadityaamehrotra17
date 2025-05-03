@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Full-Stack Development, Computer Vision**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pxFiVSOgMTNfSq2DlKy9A8mCdQwZeIf9/view?usp=sharing)
-
 - ⚡ Fun fact **The first computer virus was called "Creeper"!**
 
 <h3 align="left">Connect with me:</h3>
