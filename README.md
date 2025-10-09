@@ -27,6 +27,6 @@
   MySQL, MongoDB
 </details>
 <details>
-  <summary>DevOps, Cloud & Containerization:</summary>
+  <summary>DevOps, Cloud & Containerization</summary>
   Docker, Azure
 </details>
