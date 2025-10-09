@@ -1,44 +1,32 @@
 <h1 align="center">Hi 👋, I'm AADI</h1>
-<h3 align="center">A passionate CS student @ University of Manchester</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<h3 align="center">CS student at <a href='https://github.com/UoMCS' target='_blank'>University of Manchester</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityaamehrotra17&label=Profile%20views&color=0e75b6&style=flat" alt="aadityaamehrotra17" /> </p>
+- 🏢 Research Software Engineer at <a href='https://github.com/UoMResearchIT' target='_blank'>Research IT</a>, University of Manchester.
 
-- 🔭 I’m currently working on **Greening Didsbury (Satellite Imagery Analysis Using Computer Vision)**
+- 🚀 Building with <a href='https://github.com/Turing-Innovation-Catalyst-Collab' target='_blank'>Turing Innovation Catalyst Manchester</a>.
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 Currently learning **PyTorch**.
 
-- 💬 Ask me about **Full-Stack Development, Computer Vision**
+- ✨ Hit me up at <a href='mailto:aadityaa.mehrotra@student.manchester.ac.uk'>aadityaa.mehrotra@student.manchester.ac.uk</a> to collaborate on open-source projects.
 
-- ⚡ Fun fact **The first computer virus was called "Creeper"!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aadityaa-mehrotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityaa-mehrotra" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical Skills:</h3>
 <details>
-  <summary>Full-Stack Development:</summary>
-  MERN Stack | Tailwind | Bootstrap | Typescript | Django | SQL | PHP | Leaflet
+  <summary>Development Frameworks & Libraries</summary>
+  React, Node.js, Express.js, Next.js, Tailwind, Bootstrap, Three.js, Leaflet.js, Django, Spring, PHP
 </details>
 <details>
-  <summary>Data Science & ML:</summary>
-  NumPy | Pandas | Matplotlib | Seaborn | Plotly | scikit-learn | TensorFlow | PyTorch | Fastai library | Transformers (Hugging Face) | Scrapy | OpenCV
+  <summary>Data Science & Machine Learning</summary>
+  Dash, scikit-learn, TensorFlow, PyTorch, Transformers, OpenCV, SpaCy, SciPy, NumPy, Pandas
 </details>
 <details>
-  <summary>Programming:</summary>
-  Python | Java | C | ARM Assembly | R | DSA
+  <summary>Programming Languages</summary>
+  Python, Java, C, C++, R, Haskell, JavaScript, TypeScript, ARM Assembly, Verilog
 </details>
 <details>
-  <summary>Design & Prototyping:</summary>
-  Adobe XD | Figma
+  <summary>Database Management</summary>
+  MySQL, MongoDB
 </details>
 <details>
-  <summary>Embedded Systems & Hardware:</summary>
-  STM32 | Verilog
+  <summary>DevOps, Cloud & Containerization:</summary>
+  Docker, Azure
 </details>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityaamehrotra17&show_icons=true&locale=en&layout=compact" alt="aadityaamehrotra17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityaamehrotra17&show_icons=true&locale=en" alt="aadityaamehrotra17" /></p>
