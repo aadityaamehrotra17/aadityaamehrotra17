@@ -3,7 +3,7 @@
 
 - 🏢 Research Software Engineer at <a href='https://github.com/UoMResearchIT' target='_blank'>Research IT</a>, University of Manchester.
 
-- 🚀 Building with <a href='https://github.com/Turing-Innovation-Catalyst-Collab' target='_blank'>Turing Innovation Catalyst Manchester</a>.
+- 🚀 Building with <a href='https://github.com/Turing-Innovation-Catalyst-Collab' target='_blank'>Turing Innovation Catalyst Manchester</a> and <a href="https://github.com/forpublicai" target="_blank">Public AI</a>.
 
 - 🌱 Currently learning **PyTorch**.
 
